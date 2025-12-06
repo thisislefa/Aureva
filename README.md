@@ -350,7 +350,7 @@ console.log('Auréva initialized:', {
 
 ## License
 
-MIT License
+MIT License - Free for personal and commercial use with attribution. 
 
 ## Author
 
