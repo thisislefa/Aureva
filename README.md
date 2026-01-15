@@ -2,9 +2,11 @@
 
 A sophisticated hero section component for luxury skincare brands featuring a split-layout design with interactive product showcase and image carousel functionality.
 
+<img width="1920" height="1125" alt="aureva" src="https://github.com/user-attachments/assets/d71be200-66d0-4117-91bf-541ff9f9669c" />
+
 ## Live Preview
 
-[View Demo](https://lefajmofokeng.github.io/Aureva/)
+[View Live Demo](https://lefajmofokeng.github.io/Aureva/)
 
 ## Overview
 
